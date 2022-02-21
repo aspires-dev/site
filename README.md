@@ -1,4 +1,4 @@
-# ABout
+# About
 <!--- Emoji Sheet - https://www.webfx.com/tools/emoji-cheat-sheet/ --->
 <p> aspire is a Developer from the UK </p>
 
@@ -23,3 +23,7 @@
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
 </div>
+  
+  
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiredevelops&layout)](https://github.com/aspiredevelops/github-readme-stats)
