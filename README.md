@@ -8,6 +8,8 @@
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/sass.svg" alt="SASS logo" width="3%" title='SASS'/>
+  <img src ="./images/javascript.svg" alt="JAVASCRIPT logo" width="3%" title='JAVASCRIPT'/>
 <div> 
   
 ## Backend
