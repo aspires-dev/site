@@ -30,7 +30,6 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiredevelops&show_icons=true&theme=radical&count_private=true)
 #
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aspiredevelops)](https://github.com/aspiredevleops/github-readme-stats)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiredevelops&layout=compact)](https://github.com/aspiredevelops/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aspiredevelops)](https://github.com/aspiredevleops/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiredevelops)](https://github.com/aspiredevelops/github-readme-stats)
 #
