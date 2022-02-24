@@ -32,4 +32,4 @@
 #
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiredevelops)](https://github.com/aspiredevelops/github-readme-stats)
 #
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aspiredevelops)](https://github.com/aspiredevelops/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/1c6bf388-c17b-4662-acc3-4be0bcd9206b.svg)](https://wakatime.com/@1c6bf388-c17b-4662-acc3-4be0bcd9206b)
