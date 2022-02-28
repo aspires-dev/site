@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Website
 subtitle: Building a website
 comments: true
