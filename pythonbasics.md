@@ -8,7 +8,7 @@ Import the libraries
 import random
 ```
 
-Menu
+Menu - display options to user.
 ```{python}
 print("Welcome to the number guessing game.")
 print("Guess the number im thinking of.")
@@ -21,7 +21,7 @@ Generate secret number
 secretnumber = random.randint(1,100)
 ```
 
-Input Validation
+Input Validation - check that the input is a intager.
 ```{python}
   while True:
     try:
@@ -34,7 +34,7 @@ Input Validation
        break
   ```
 
-Number checker
+Number checker - check guess against generated number.
 ```{python}
     input = inputNumber("Input your guess!\n")
     print("Guess is", input)
@@ -48,7 +48,7 @@ Number checker
         print()
 ```
 
-Main loop
+Main loop - run the 'main' subroutine
 ```{python}
 main()
 ```
