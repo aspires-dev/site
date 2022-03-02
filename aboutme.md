@@ -5,7 +5,7 @@ subtitle: Who I am
 ---
 
 ### My story
-Jack was born in the United Kingdom, and has been programming for 6+ years. Jack has worked on many projects both group and indiviadual for a range of goals including; Web development, gamedesign, automation as well as others.
+Fin likes boys
 
 
 My experience:
