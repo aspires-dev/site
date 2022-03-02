@@ -15,6 +15,7 @@ navbar-links:
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - OLD Python: "pythonbasics"
+    - Rock Paper Scissors: "rpc.html"
   Servers:
     -     - Build a Minceraft server: "minecraftserver"
   Home: ""
