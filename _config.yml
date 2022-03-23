@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "aspire.dev.support@pm.me"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: aspiredevelops
   twitter: aspiredevelops
@@ -50,7 +50,7 @@ social-network-links:
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "18544796/aspire"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -166,7 +166,7 @@ footer-hover-col: "#0085A1"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-repository: "aspiredevelops/beautiful-jekyll"
+repository: "aspiredevelops/aspiredevelops-site"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
