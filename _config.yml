@@ -14,11 +14,11 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - OLD Python: "pythonbasics"
+  Games:
     - Rock Paper Scissors: "rpc.html"
   Servers:
-    -     - Build a Minceraft server: "minecraftserver"
-  Home: ""
+#    -     - Build a Minceraft server: "minecraftserver"
+  Home: "index.html"
 
 # --- Logo --- #
 
@@ -43,7 +43,7 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: aspiredevelops
-  twitter: aspiredevelops
+  twitter: aspiredev_
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -67,7 +67,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that i exist
 
 # --- General options --- #
 
@@ -75,7 +75,8 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
+  email: true
   vk: false
 
 # How to display the link to your website in the footer
