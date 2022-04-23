@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/1c6bf388-c17b-4662-acc3-4be0bcd9206b/project/bac2631f-9f1b-4481-90de-0d85b449f7e2.svg)](https://wakatime.com/badge/user/1c6bf388-c17b-4662-acc3-4be0bcd9206b/project/bac2631f-9f1b-4481-90de-0d85b449f7e2)
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
